@@ -1,11 +1,7 @@
 🏥 Cloud-Based Emergency Hospital Management System
-[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-success?style=for-the-badge)](https://l04zob-qabhkofu8-arcadawebapps3.vercel.app)
 
-"Project Status" (https://img.shields.io/badge/Project-Active-brightgreen)
-"Cloud" (https://img.shields.io/badge/Cloud-Based-blue)
-"Frontend" (https://img.shields.io/badge/Frontend-HTML%20%7C%20CSS%20%7C%20JavaScript-orange)
-"Backend" (https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)
-"Database" (https://img.shields.io/badge/Database-MySQL-blue)
+
+[![Live Demo](https://img.shields.io/badge/🚀_Live-Demo-success?style=for-the-badge)](https://l04zob-qabhkofu8-arcadawebapps3.vercel.app)
 
 📌 About the Project
 
